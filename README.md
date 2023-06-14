@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark Ghattas</h1>
-<h3 align="center">A passionate software engineer and college student from Maryland</h3>
+<h3 align="center">A passionate software engineer and Duke student from Maryland</h3>
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1360/1*w5W4vlki-8Y4R2Ti0mtwSw.gif">
 
-- 💬 Ask me about **Machine Learning, Data Science, Duke Sports**
+- 💬 Ask me about **Machine Learning, Fantasy Football**
 
 - 📫 How to reach me **markag121@gmail.com**
 
